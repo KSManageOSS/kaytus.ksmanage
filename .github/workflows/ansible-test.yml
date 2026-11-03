@@ -37,6 +37,10 @@ jobs:
             python-version: '3.11'
           - ansible: stable-2.21
             python-version: '3.15'
+          - ansible: stable-2.22
+            python-version: '3.11'
+          - ansible: stable-2.22
+            python-version: '3.12'
           - ansible: devel
             python-version: '3.11'
           - ansible: devel
